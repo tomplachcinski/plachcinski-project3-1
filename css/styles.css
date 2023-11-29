@@ -1,21 +1,48 @@
 @font-face {
-    font-family: GOT;
-    src: url(GOT.ttf);
+    font-family: got;
+    src:url(../fonts/got.ttf)
 }
+
+@font-face {
+    font-family: 'Georgia Regular';
+    font-style: normal;
+    font-weight: normal;
+    src: url('../fonts/georgia.woff');
+    }
+
+    .bg-light{
+    color: none!important;
+    }
 
 h1{
-    font-family: GOT;
-    font-size: 15rem;
-    margin-top: -60px;
+    font-family: 'got';
+    font-size: 12rem;
+    margin-top: -40px;
+    padding-top: 32px;
 }
 
+.exptop{
+    padding-bottom: 65px;
+}
+
+.welcomehr hr{
+    stroke: 6pt solid #342D22;
+}
 header{
     background-image: url("../images/mainhead.jpg");
 }
 
 .welcome{
-    font-size: 1.5rem;
+    font-family: 'Georgia Regular';
+    font-size: 1.8rem;
     margin-top: 80px;
+}
+
+.embark{
+    font-family: 'Georgia Regular';
+    font-size: 1.8rem;
+    margin-top: 40px;
+    color: white;
 }
 
 .mainnav{
@@ -25,9 +52,149 @@ header{
 .embark{
     padding-top: 20px;
     padding-bottom: 40px;
+    
 }
 
 .exp{
     padding-bottom: 40px;
     padding-top: 0px;
 }
+
+.homeh3{
+    font-family: 'got';
+    font-size: 3rem;
+    padding-top: 60px;
+    line-height: 4rem;
+}
+
+.homep{
+    font-family: 'Georgia Regular';
+    font-size: 1.8rem;
+}
+
+.home1{
+    padding-top: 160px;
+}
+
+.home2{
+    padding-top: 160px;
+    padding-bottom: 160px;
+}
+
+.regions{
+    background-image: url("../images/regionback.jpg");
+    width: 100%;
+    overflow: hidden;
+}
+
+.regionsh2{
+    font-family: 'got';
+    font-size: 10rem;
+    padding-top: 260px;
+    color: white;
+    text-align: center;
+}
+
+.regionspikes{
+    margin-left: -80px;
+    margin-top: -215px;
+    padding-bottom: 576px;
+}
+
+.galleryspikes{
+    margin-left: -90px;
+    margin-top: -215px;
+}
+
+.tap{
+    padding-top: 100px;
+}
+
+.banners{
+    margin-top: -500px;
+    padding-bottom: 250px;
+}
+
+.bot{
+    padding-top: 20px;
+    padding-bottom: 60px;
+}
+
+.galleryh2{
+    font-family: 'got';
+    font-size: 10rem;
+    padding-top: 200px;
+    color: #342D22;
+    text-align: center;
+}
+
+.foot{
+    background-image: url("../images/footerback.svg");
+}
+
+
+
+.dropdown-menu{
+    background-color: none!important;
+    border: none!important;
+}
+
+.footertext ul{
+    margin-top: 0px;
+    padding-bottom: 160px;
+}
+
+.reg{
+    margin-left: 159px;
+    font-family: 'Georgia Regular';
+    font-size: 1rem;
+    color: #fff;
+    list-style: none;
+}
+
+.faqfoot{
+    margin-left: 324px;
+    list-style: none;
+    font-family: 'Georgia Regular';
+    font-size: 1rem;
+    color: #fff;
+}
+
+.footytext{
+    font-family: 'got';
+    font-size: 1.2rem;
+    color: #fff;
+    margin-top: 174px;
+    margin-left: 160px;
+}
+
+.navbar-light .navbar-nav .nav-link{
+    font-family: 'Georgia Regular';
+    font-size: 1.2rem;
+}
+
+.exp2{
+    padding-bottom: 150px;
+}
+
+.exp:hover{
+    opacity: 50%;
+}
+
+.exp2:hover{
+    opacity: 50%;
+}
+
+.exptop:hover{
+    opacity: 50%;
+}
+
+hr{
+    border: 4px solid #342D22;
+    opacity: 100%;
+}
+
+.logo{
+    padding-top: 20px;
+}
+

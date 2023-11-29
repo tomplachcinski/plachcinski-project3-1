@@ -1,0 +1,11 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="177.201" height="48.166" viewBox="0 0 177.201 48.166">
+  <g id="Group_35" data-name="Group 35" transform="translate(1 1)">
+    <line id="Line_1" data-name="Line 1" x1="3.918" y1="3.918" fill="none" stroke="#fff" stroke-width="2"/>
+    <line id="Line_2" data-name="Line 2" x1="3.918" y2="3.918" transform="translate(0 42.541)" fill="none" stroke="#fff" stroke-width="2"/>
+    <line id="Line_3" data-name="Line 3" y1="3.918" x2="3.918" transform="translate(171.283)" fill="none" stroke="#fff" stroke-width="2"/>
+    <line id="Line_4" data-name="Line 4" x2="3.918" y2="3.918" transform="translate(171.283 42.541)" fill="none" stroke="#fff" stroke-width="2"/>
+    <line id="Line_5" data-name="Line 5" x2="175.201" fill="none" stroke="#fff" stroke-width="2"/>
+    <line id="Line_6" data-name="Line 6" y1="46.459" transform="translate(175.201)" fill="none" stroke="#fff" stroke-width="2"/>
+    <line id="Line_8" data-name="Line 8" y2="46.459" fill="none" stroke="#fff" stroke-width="2"/>
+  </g>
+</svg>
