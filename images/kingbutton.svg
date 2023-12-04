@@ -1,0 +1,21 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="176" height="34" viewBox="0 0 176 34">
+  <g id="Group_186" data-name="Group 186" transform="translate(-143 -786)">
+    <rect id="Rectangle_73" data-name="Rectangle 73" width="176" height="34" transform="translate(143 786)" fill="#342d22"/>
+    <g id="Rectangle_74" data-name="Rectangle 74" transform="translate(147 790)" fill="#8d8679" stroke="#fff" stroke-width="3">
+      <rect width="168" height="27" stroke="none"/>
+      <rect x="1.5" y="1.5" width="165" height="24" fill="none"/>
+    </g>
+    <g id="Group_77" data-name="Group 77" transform="translate(144.338 787.338)">
+      <line id="Line_1" data-name="Line 1" x1="2.677" y1="2.677" transform="translate(0)" fill="none" stroke="#fff" stroke-width="2"/>
+      <line id="Line_2" data-name="Line 2" x1="2.677" y2="2.677" transform="translate(0 29.065)" fill="none" stroke="#fff" stroke-width="2"/>
+      <line id="Line_3" data-name="Line 3" y1="2.677" x2="2.677" transform="translate(170.203)" fill="none" stroke="#fff" stroke-width="2"/>
+      <line id="Line_4" data-name="Line 4" x2="2.677" y2="2.677" transform="translate(170.203 29.065)" fill="none" stroke="#fff" stroke-width="2"/>
+      <line id="Line_5" data-name="Line 5" x2="172.88" transform="translate(0)" fill="none" stroke="#fff" stroke-width="2"/>
+      <line id="Line_6" data-name="Line 6" y1="31.742" transform="translate(172.88)" fill="none" stroke="#fff" stroke-width="2"/>
+      <line id="Line_8" data-name="Line 8" y2="31.742" transform="translate(0)" fill="none" stroke="#fff" stroke-width="2"/>
+    </g>
+    <text id="Kings_Landing" data-name="Kings Landing" transform="translate(182 808)" fill="#fff" font-size="10" font-family="GameofThrones, Game of Thrones"><tspan x="0" y="0">Kings Landing</tspan></text>
+    <line id="Line_72" data-name="Line 72" x2="16.827" transform="translate(157.37 803.5)" fill="none" stroke="#fff" stroke-linecap="round" stroke-width="2"/>
+    <line id="Line_73" data-name="Line 73" x2="16.827" transform="translate(287.361 803.5)" fill="none" stroke="#fff" stroke-linecap="round" stroke-width="2"/>
+  </g>
+</svg>
