@@ -476,3 +476,60 @@ padding-bottom: 120px;
     padding-bottom: 20px;
 }
 
+.title{
+    font-family: 'got';
+    font-size: 1.5rem;
+    color: #342d22;
+    text-align: center;
+    padding-top: 20px;
+}
+
+.des{
+    font-family: 'Georgia Regular';
+    font-size: 1rem;
+    color: #342D22;
+    text-align: center;
+
+}
+
+.card2{
+    padding-top: 70px;
+    padding-bottom: 120px;
+}
+
+.king1{
+    background-color: #fff;
+}
+
+.kingrow1{
+    padding-top: 100px;
+}
+
+.kingcard{
+    background-image: url("../images/kingboot.svg");
+    padding-top: 200px;
+    padding-bottom: 190px;
+    background-size: cover;
+}
+
+.gardencard{
+    background-image: url("../images/gardenboot.svg");
+    padding-top: 200px;
+    padding-bottom: 190px;
+    background-size: cover;
+}
+
+.stormcard{
+    background-image: url("../images/stormboot.svg");
+    padding-top: 200px;
+    padding-bottom: 190px;
+    background-size: cover;
+}
+
+.wintercard{
+    background-image: url("../images/winterboot.svg");
+    padding-top: 200px;
+    padding-bottom: 190px;
+    background-size: cover;
+}
+
