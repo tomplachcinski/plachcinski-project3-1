@@ -1,0 +1,22 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="148" height="50" viewBox="0 0 148 50">
+  <g id="Group_194" data-name="Group 194" transform="translate(-403 -1370)">
+    <rect id="Rectangle_40" data-name="Rectangle 40" width="148" height="50" transform="translate(403 1370)" fill="#342d22"/>
+    <g id="Rectangle_41" data-name="Rectangle 41" transform="translate(409 1376)" fill="#8d8679" stroke="#fff" stroke-width="3">
+      <rect width="137" height="39" stroke="none"/>
+      <rect x="1.5" y="1.5" width="134" height="36" fill="none"/>
+    </g>
+    <line id="Line_40" data-name="Line 40" x2="143.88" transform="translate(404.959 1418.418)" fill="none" stroke="#fff" stroke-width="1"/>
+    <g id="Group_36" data-name="Group 36" transform="translate(404.959 1371.959)">
+      <line id="Line_1" data-name="Line 1" x1="3.918" y1="3.918" fill="none" stroke="#fff" stroke-width="2"/>
+      <line id="Line_2" data-name="Line 2" x1="3.918" y2="3.918" transform="translate(0 42.541)" fill="none" stroke="#fff" stroke-width="2"/>
+      <line id="Line_3" data-name="Line 3" y1="3.918" x2="3.918" transform="translate(139.962)" fill="none" stroke="#fff" stroke-width="2"/>
+      <line id="Line_4" data-name="Line 4" x2="3.918" y2="3.918" transform="translate(139.962 42.541)" fill="none" stroke="#fff" stroke-width="2"/>
+      <line id="Line_5" data-name="Line 5" x2="143.88" fill="none" stroke="#fff" stroke-width="2"/>
+      <line id="Line_6" data-name="Line 6" y1="46.459" transform="translate(143.88)" fill="none" stroke="#fff" stroke-width="2"/>
+      <line id="Line_8" data-name="Line 8" y2="46.459" fill="none" stroke="#fff" stroke-width="2"/>
+    </g>
+    <text id="Send" transform="translate(452 1403)" fill="#fff" font-size="16" font-family="GameofThrones, Game of Thrones"><tspan x="0" y="0">Send</tspan></text>
+    <line id="Line_41" data-name="Line 41" x2="24.629" transform="translate(512.456 1395.469)" fill="none" stroke="#fff" stroke-linecap="round" stroke-width="2"/>
+    <line id="Line_42" data-name="Line 42" x2="24.629" transform="translate(416.714 1395.748)" fill="none" stroke="#fff" stroke-linecap="round" stroke-width="2"/>
+  </g>
+</svg>

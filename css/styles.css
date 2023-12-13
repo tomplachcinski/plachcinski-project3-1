@@ -21,6 +21,13 @@ h1{
     padding-top: 32px;
 }
 
+.wester{
+    font-family: 'got';
+    font-size: 10.4vw;
+    margin-top: -40px;
+    padding-top: 32px;
+}
+
 .exptop{
     padding-bottom: 65px;
 }
@@ -148,6 +155,7 @@ h1{
 .mappic{
     margin-top: -480px;
     padding-bottom: 72px;
+    padding-top: 576px;
 }
 
 .bot{
@@ -165,6 +173,7 @@ h1{
 
 .foot{
     background-image: url("../images/footerback.svg");
+    background-size: cover;
 }
 
 
@@ -244,10 +253,11 @@ hr{
 
 .king{
     font-family: 'got';
-    font-size: 7.99rem;
+    font-size: 7.2vw;
     margin-top: -40px;
     padding-top: 62px;
     color: #882924;
+    text-align: center;
 }
 
 .kingspike{
@@ -256,9 +266,9 @@ hr{
 }
 
 .lion{
-    margin-left: 570px;
     padding-top: 60px;
     padding-bottom: 172px;
+    text-align: center;
 }
 
 .kingp{
@@ -274,7 +284,7 @@ hr{
 
 .storm{
     font-family: 'got';
-    font-size: 7.99rem;
+    font-size: 7.2vw;
     margin-top: -40px;
     padding-top: 62px;
     margin-left: 100px;
@@ -293,7 +303,7 @@ hr{
 
 .winter{
     font-family: 'got';
-    font-size: 7.99rem;
+    font-size: 7.2vw;
     margin-top: -40px;
     padding-top: 62px;
     margin-left: 100px;
@@ -316,7 +326,7 @@ hr{
 
 .garden{
     font-family: 'got';
-    font-size: 7.99rem;
+    font-size: 7.3vw;
     margin-top: -40px;
     padding-top: 62px;
     margin-left: 100px;
@@ -330,7 +340,7 @@ hr{
 
 .attract{
     font-family: 'got';
-    font-size: 9.2rem;
+    font-size: 8.5vw!important;
     margin-top: -10px;
     padding-top: 32px;
 }
@@ -354,6 +364,7 @@ hr{
     margin-top: 100px;
     background-image: url("../images/attractback.svg");
     padding-bottom: 260px;
+    background-size: cover;
 }
 
 .aboutheader{
@@ -463,7 +474,7 @@ padding-bottom: 120px;
 .mapspikes{
     margin-left: 150px;
     margin-top: -215px;
-    padding-bottom: 576px;
+    
 }
 
 .about4{
@@ -497,7 +508,7 @@ padding-bottom: 120px;
     padding-bottom: 120px;
 }
 
-.king1{
+.king2content{
     background-color: #fff;
 }
 
@@ -532,4 +543,156 @@ padding-bottom: 120px;
     padding-bottom: 190px;
     background-size: cover;
 }
+
+.kingcard2{
+
+    padding-bottom: 190px;
+}
+
+.gardencard2{
+    padding-bottom: 190px;
+}
+
+.stormcard2{
+    padding-bottom: 190px;
+}
+
+.wintercard2{
+    padding-bottom: 190px;
+
+}
+
+.conte{
+    font-family: 'got';
+    font-size: 4rem;
+}
+
+.contactwest{
+    font-family: 'got';
+    font-size: 2rem;
+    padding-bottom: 100px;
+}
+
+.feelfree{
+    font-family: 'Georgia Regular';
+    font-size: 1.2rem;
+    color: #342D22;
+    padding-bottom: 60px;
+}
+
+.number{
+    font-family: 'Georgia Regular';
+    font-size: 1.2rem;
+    color: #342D22;
+}
+
+.emails{
+    font-family: 'Georgia Regular';
+    font-size: 1.2rem;
+    color: #342D22;
+}
+
+.contactsub{
+    padding-top: 150px;
+}
+
+.faqsub{
+    padding-top: 150px;
+    padding-bottom: 100px;
+}
+
+textarea{
+    padding-bottom: 140px;
+}
+
+
+.contactform label{
+    font-family: 'Georgia Regular';
+    font-size: 1.2rem;
+    color: #342D22;
+    padding-top: 20px;
+}
+
+.contactform input{
+    padding-bottom: 10px;
+}
+
+.contactform{
+    margin-top: 60px;
+}
+
+.send{
+    padding-top: 40px;
+    padding-bottom: 60px;
+}
+
+.send:hover{
+    opacity: 50%;
+}
+
+.accordion-button:not(.collapsed) {
+    color: #fff;
+    background-color: #000;
+    box-shadow: inset 0 -1px 0 rgba(0,0,0,.125);
+}
+
+.accordion{
+    padding-top: 160px;
+    padding-bottom: 60px;
+}
+
+.reg a{
+    text-decoration: none;
+    color: #fff;
+}
+
+.faqfoot a{
+    text-decoration: none;
+    color: #fff;
+}
+
+.reg a:hover{
+    opacity: 50%;
+}
+
+.faqfoot a:hover{
+   opacity: 50%; 
+}
+
+@media (max-width: 1600px) {
+    .kingspike {
+      display:none;
+    }
+  }
+
+  @media (max-width: 1520px) {
+    .stormspike {
+      display:none;
+    }
+  }
+
+  @media (max-width: 1520px) {
+    .winterspike {
+      display:none;
+    }
+  }
+
+  @media (max-width: 1520px) {
+    .gardenspike {
+      display:none;
+    }
+  }
+
+  @media (max-width: 1520px) {
+    .galleryspikes {
+      display:none;
+    }
+  }
+
+  @media (max-width: 1520px) {
+    .mapspikes {
+      display:none;
+    }
+  }
+
 
